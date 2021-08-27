@@ -21,4 +21,6 @@ Run the following command to install the required packages
  ```
  and run the script!!
  
- Intermediate data files and models are getting uploaded for reference.
+ Intermediate data files and models are uploaded at:
+ 
+https://drive.google.com/drive/folders/1SVa1K03QaLonh11HWUD0UNSuJhSCTDQa?usp=sharing
