@@ -1,5 +1,5 @@
 # Evolent-Health Beer Data Analysis
-This project is done to analyze the beer data to get answers to the following questions:
+This project is done to analyse the beer data to get answers to the following questions:
 
 1. Rank the top 3 Breweries which produce the strongest beers?
 2. Which year did beers enjoy the highest ratings? 
